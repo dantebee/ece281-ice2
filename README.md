@@ -6,6 +6,9 @@ Targeted toward Digilent Basys3. Make sure to install the [board files](https://
 
 Tested on Windows 10/11.
 
+DOCUMENTATION: I did not receive any help from another cadet, I used
+ChatGPT to help with a problem I had commiting the files to GitHub.
+
 ## GitHub Actions Testbench
 
 The workflow uses the [setup-ghdl-ci](https://github.com/ghdl/setup-ghdl-ci) GitHub action
